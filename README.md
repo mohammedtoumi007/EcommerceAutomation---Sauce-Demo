@@ -12,7 +12,7 @@ Covered positive & negative testing scenarios (Login, Cart, Checkout)
 
 Test Cases, Scenarios and Summary Report in excel sheet : 
 
-### Automation Testing Testing
+### Automation Testing :
 
 A complete Automation Testing Framework to practice and implement real-world automation concepts using:
 
@@ -24,7 +24,7 @@ A complete Automation Testing Framework to practice and implement real-world aut
 
 🧰 Maven Project Setup
 
-## The framework automates the SauceDemo e-commerce web app covering:
+The framework automates the SauceDemo e-commerce web app covering:
 
 -Login Page Test: Valid/Invalid credentials, error messages
 
