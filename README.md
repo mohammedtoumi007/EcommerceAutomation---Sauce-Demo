@@ -24,9 +24,9 @@ A complete Automation Testing Framework to practice and implement real-world aut
 
 The framework automates the SauceDemo e-commerce web app covering:
 
--Login Page Test: Valid/Invalid credentials, error messages
+- Login Page Test: Valid/Invalid credentials, error messages
 
--Products Page Validations: Product names, Add-Item-to-Cart buttons
+- Products Page Validations: Product names, Add-Item-to-Cart buttons
 
--Cart Page Verification: Product count, Remove/Checkout functionality
+- Cart Page Verification: Product count, Remove/Checkout functionality
 
