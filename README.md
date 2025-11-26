@@ -2,15 +2,13 @@
 Automation Project
 
 ## Project Overview
-### Manuel Testing
+### Manuel Testing  in excel file : Test Case and Bug Report _SauceDemo Website
 
-Designed and executed 12 test cases*
+- Designed and executed 24 test cases
 
-Prepared Test Execution Report & Test Summary Report
+- Prepared Test Execution Report & Test Summary Report
 
-Covered positive & negative testing scenarios (Login, Cart, Checkout)
-
-Test Cases, Scenarios and Summary Report in excel sheet : 
+- Covered positive & negative testing scenarios (Login, Cart, Checkout)
 
 ### Automation Testing :
 
