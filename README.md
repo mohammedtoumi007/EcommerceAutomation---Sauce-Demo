@@ -2,8 +2,19 @@
 Automation Project
 
 ## Project Overview
+### Manuel Testing
 
-Welcome to EcomAutomationFramework - Sauce Demo, a complete Automation Testing Framework to practice and implement real-world automation concepts using:
+Designed and executed 12 test cases*
+
+Prepared Test Execution Report & Test Summary Report
+
+Covered positive & negative testing scenarios (Login, Cart, Checkout)
+
+Test Cases, Scenarios and Summary Report in excel sheet : 
+
+### Automation Testing Testing
+
+A complete Automation Testing Framework to practice and implement real-world automation concepts using:
 
 🧪 Selenium WebDriver
 
