@@ -13,3 +13,11 @@ Welcome to EcomAutomationFramework - Sauce Demo, a complete Automation Testing F
 
 🧰 Maven Project Setup
 
+## The framework automates the SauceDemo e-commerce web app covering:
+
+-Login Page Test: Valid/Invalid credentials, error messages
+
+-Products Page Validations: Product names, Add-Item-to-Cart buttons
+
+-Cart Page Verification: Product count, Remove/Checkout functionality
+
